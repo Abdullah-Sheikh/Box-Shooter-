@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Box Shooter",
+"productVersion": "0.1",
+"dataUrl": "Boxshooter.data.unityweb",
+"wasmCodeUrl": "Boxshooter.wasm.code.unityweb",
+"wasmFrameworkUrl": "Boxshooter.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#4C4C4C",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
