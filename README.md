@@ -21,19 +21,19 @@ The game has two levels when player score is equal to 30 it will be move to Next
 
 When the game start first display the Main Menu. When the Player click on Play button the Level 1 loads using the script LoadLevelScript.
 
-![GitHub Logo](1.JPG)
+![GitHub Logo](1.png)
 
-![GitHub Logo](2.JPG)
+![GitHub Logo](2.png)
 
-![GitHub Logo](3.JPG)
+![GitHub Logo](3.png)
 
-![GitHub Logo](4.JPG)
-
-
-![GitHub Logo](5.JPG)
+![GitHub Logo](4.png)
 
 
-![GitHub Logo](6.JPG)
+![GitHub Logo](5.png)
+
+
+![GitHub Logo](6.png)
 
 
 
